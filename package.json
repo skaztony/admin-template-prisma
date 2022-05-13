@@ -123,7 +123,7 @@
     "sparklines": "^1.2.0",
     "summernote": "^0.8.18",
     "sweetalert2": "^10.3.5",
-    "tempusdominus-bootstrap-4": "^5.1.2",
+    "tempusdominus-bootstrap-4": "^5.39.2",
     "toastr": "^2.1.4"
   },
   "devDependencies": {
